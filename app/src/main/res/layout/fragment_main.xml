@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Hue"
+        android:text="HueHue"
         android:id="@+id/textView"
         android:layout_alignParentLeft="false"
         android:layout_alignParentBottom="false"
